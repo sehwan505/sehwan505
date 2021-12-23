@@ -1,10 +1,14 @@
 # 취미로 데이터 분석하는 개발자입니다. (BackEnd Engineer, Data Analysis as a hobby) 👋
 ## UOS(서울 시립대) 재학중
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwan505&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwan505&show_icons=true&theme=radical)<br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br/>
-### 다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com) 
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-092E20?style=flat-square&logo=TensorFlow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=Java&logoColor=white"/><br/>
+
+### 다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com)
 
 
 <!--
