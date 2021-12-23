@@ -1,8 +1,11 @@
-### 취미로 데이터 분석하는 개발자입니다. 👋
+## 취미로 데이터 분석하는 개발자입니다. (BackEnd Engineer, Data Analysis as a hobby) 👋
+### UOS(서울 시립대) 재학중
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwan505&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br/>
+### 다양한 경험을 해보고 있습니다. 
+
 
 <!--
 **sehwan505/sehwan505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
