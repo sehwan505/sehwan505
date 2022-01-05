@@ -1,5 +1,5 @@
 # 취미로 데이터 분석하는 개발자입니다. (BackEnd Engineer, Data Analysis as a hobby) 👋
-## UOS(서울 시립대) 재학중
+## 서울 시립대 재학중 (degree expected in UOS)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwan505&show_icons=true&theme=radical)<br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 
