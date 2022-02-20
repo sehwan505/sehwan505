@@ -1,7 +1,7 @@
 # 취미로 데이터 분석하는 개발자입니다. (BackEnd Engineer, Data Analysis as a hobby) 👋
 ## 서울 시립대 재학중 (degree expected in UOS)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwan505&show_icons=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehwan505&layout=compact&hide=JupyterNotebook)](https://github.com/sehwan505)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehwan505&hide=qml,jupyter%20notebook&langs_count=5)<br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br/>
