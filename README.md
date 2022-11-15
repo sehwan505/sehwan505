@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-092E20?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-ADD8E6?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=Java&logoColor=white"/><br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sehwan-park-72736117a)](https://www.linkedin.com/in/sehwan-park-72736117a/)
 ### 다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com)
