@@ -1,12 +1,13 @@
 # 취미로 데이터 분석하는 개발자입니다. (BackEnd Engineer, Data Analysis as a hobby) 👋
 ## 서울 시립대 재학중 (degree expected in UOS)
-<h3>💻 Tech Stack 💻</h3><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><br/>
+<h3>💻 Tech Stack 💻</h3>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-092E20?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-ADD8E6?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=Java&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=Java&logoColor=white"/>
 <h3> Experience </h3><br/>
 <p><a href="https://learnprompting.org/">Learing Prompting</a> Contributor</p>
 ### 다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com)<br/>
