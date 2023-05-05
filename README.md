@@ -10,11 +10,15 @@
 <img src="https://img.shields.io/badge/Go-ADD8E6?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=Java&logoColor=white"/>
 </div>
-<h3> Experience </h3><br/>
-<p><a href="https://learnprompting.org/">Learing Prompting</a> Contributor</p>
-### 다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com)<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sehwan-park-72736117a)](https://www.linkedin.com/in/sehwan-park-72736117a/)
+<h3> Experience </h3>
+<a href="https://learnprompting.org/">Learing Prompting</a> Contributor</br>
+서울시립대 멋쟁이 사자처럼8기</br>
+42Seoul 3기</br>
+K-shield.jr 2기</br>
 
+<h3>다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com)</h3>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
 <!--
 **sehwan505/sehwan505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
