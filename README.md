@@ -1,4 +1,4 @@
-# 취미로 데이터 분석하는 개발자입니다. (BackEnd Engineer, Data Analysis as a hobby) 👋
+# AI를 가치있게 활용하는 개발자입니다. (BackEnd Engineer who makes good use of AI) 👋
 ## 서울 시립대 재학중 (degree expected in UOS)
 <div align="center">
 <h3>💻 Tech Stack 💻</h3>
