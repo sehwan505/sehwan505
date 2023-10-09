@@ -3,7 +3,6 @@
 <div align="center">
 <h3>💻 Tech Stack 💻</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-092E20?style=flat-square&logo=TensorFlow&logoColor=white"/>
