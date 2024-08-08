@@ -1,4 +1,4 @@
-# AI를 가치있게 활용하는 개발자입니다. (BackEnd Engineer who makes good use of AI) 👋
+# AI를 가치있게 활용하는 개발자입니다. (BackEnd Engineer) 👋
 ## 서울 시립대 재학중 (degree expected in UOS)
 <div align="center">
 <h3>💻 Tech Stack 💻</h3>
