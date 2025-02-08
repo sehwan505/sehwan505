@@ -1,7 +1,7 @@
-# AI를 가치있게 활용하는 개발자입니다. (BackEnd Engineer) 👋
+# 가치를 만드는 개발자입니다. (BackEnd Engineer) 👋
 ## 서울 시립대 재학중 (degree expected in UOS)
 <div align="center">
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 SKILLS 💻</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-092E20?style=flat-square&logo=TensorFlow&logoColor=white"/>
@@ -14,7 +14,7 @@
 K-shield.jr 2기</br>
 서울시립대 멋쟁이 사자처럼8기</br>
 
-<h3>다양한 경험을 해보고 있습니다. 재미있는 기회가 있다면 메일 주세요(sehwan505@gmail.com)</h3>
+<h3>기회를 찾고 있습니다. 메일 주세요(sehwan505@gmail.com)</h3>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/sehwan-park-72736117a/)
 
