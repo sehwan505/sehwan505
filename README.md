@@ -12,6 +12,7 @@
 <a href="https://learnprompting.org/">Learing Prompting(프롬프트 엔지니어링 교육)</a> Contributor</br>
 42Seoul 3기</br>
 서울시립대 멋쟁이 사자처럼8기</br>
+소프트웨어 마에스트로 16기</br>
 
 <h3>기회를 찾고 있습니다. 메일 주세요(sehwan505@gmail.com)</h3>
 
