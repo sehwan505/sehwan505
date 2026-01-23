@@ -14,8 +14,6 @@
 서울시립대 멋쟁이 사자처럼8기</br>
 소프트웨어 마에스트로 16기</br>
 
-<h3>기회를 찾고 있습니다. 메일 주세요(sehwan505@gmail.com)</h3>
-
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/sehwan-park-72736117a/)
 
 <!--
