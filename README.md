@@ -1,5 +1,4 @@
 # 가치를 만드는 개발자입니다. (BackEnd Engineer) 👋
-## 서울 시립대 재학중 (degree expected in UOS)
 <div align="center">
 <h3>💻 SKILLS 💻</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -8,11 +7,13 @@
 <img src="https://img.shields.io/badge/Go-ADD8E6?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=Java&logoColor=white"/>
 </div>
+<h3> Education </h3>
+서울시립대 컴퓨터과학부 졸업
 <h3> Experience </h3>
 <a href="https://learnprompting.org/">Learing Prompting(프롬프트 엔지니어링 교육)</a> Contributor</br>
 42Seoul 3기</br>
 서울시립대 멋쟁이 사자처럼8기</br>
-소프트웨어 마에스트로 16기</br>
+소프트웨어 마에스트로 16기</br></br>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/sehwan-park-72736117a/)
 
